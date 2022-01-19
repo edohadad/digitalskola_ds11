@@ -1,1 +1,8 @@
 git
+
+test
+
+batch 11 DigitalSkola
+
+
+edit pertama di file ini
