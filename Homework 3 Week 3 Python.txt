@@ -1,0 +1,69 @@
+Data-type dalam Python:
+1. Numerik
+Tipe data berupa angka. Terdapat 3 tipe angka:
+- Integer (Int) nilai bilangan bulat (-3, -2, -1, 0, 1, 2, dst). Tidak ada Batasan Panjang nilai bilangan bulat. 
+- Float nilai bilangan decimal (2.1, 23.12, 123.456 dst). Memiliki keakuratan hingga 15 angka dibelakang koma.
+- Complex Suatu bilangan yang mengandung pasangan terurut, yaitu “x + iy” di mana x adalah bagian real dan y adalah bagian imajiner. Bilangan kompleks seperti 2.14j, 2.0 + 2.3j, dll.
+Penulisan tipe data numerik di Python tidak memerlukan formula khusus. Hanya dengan mengetikkan angka, Python akan mendefinisikan nilai tersebut adalah angka, baik untuk integer, float dan complex.
+2. Sequence (Urutan)
+- String 
+String dapat didefinisikan sebagai urutan karakter/huruf. Penulisan string bisa menggunakan single, double ataupun triple tanda petik (‘ ’,” ”,””” ”””). Operator (+) dapat digunakan untuk menggabungkan antar string. Dan operator (*) digunakan untuk repetisi atau pengulangan. Contoh: 
+Penulisan string
+Input		: print(‘Hello’)
+Output		: Hello
+
+Penggunaan operator +
+Input 		: print(“Hello” + “World”)
+Output 	: Hello World
+
+Penggunaan operator *
+Input 		: print(“Hello” * 2)
+Output 	: HelloHello
+
+- List (daftar)
+List dapat berisi data dari berbagai jenis seperti integer, float, character, dan string. Item yang disimpan dalam daftar dipisahkan dengan koma (,) dan diapit dalam tanda kurung siku ([ ]). Contoh:
+Input 	: list1 = [1, 2, 3, ‘Hello’, ‘World’]
+		 print(list1) 
+Output	: [1, 2, 3, ‘Hello’, ‘World’]
+
+Input 	: list1 = [1, 2, 3, ‘Hello’, ‘World’]
+		 print(list1[3]) 
+Output	: Hello
+- Tuple
+Seperti List, Tuple juga berisi kumpulan item dari tipe data yang berbeda dan itemnya dipisahkan dengan tanda koma (,). Namun, Item Tuple diapit menggunakan tanda kurung () dan Tuple adalah struktur data read-only atau struktur yang tidak dapat diubah ukuran dan nilai item dari Tuple.
+3. Dictionary
+Dictionary adalah kumpulan item yang tidak berurutan dari beberapa item pasangan Key-value. Ini seperti kumpulan asosiatif atau tabel campuran di mana setiap Key menyimpan value tertentu. Key dapat menampung tipe data primitif apa pun, sedangkan value adalah objek Python yang berubah-ubah. Item dalam kamus dipisahkan dengan koma (,) dan diapit oleh kurung kurawal {} dan value dari sebuah Key ditetapkan menggunakan titik dua (:). Contoh Dictionary:
+Input	:
+dict1 = {“nama”: “edoardo gonzales”,
+		 “gender”: “laki-laki”,
+		 “asal”: “lampung”,
+		 “hobi”: “memancing”}
+print(“seorang “ + dict1[“gender”], “bernama ” + dict1[“nama”]) 
+Output	: seorang laki-laki Bernama edoardo gonzales
+
+4. Boolean
+Boolean menyediakan dua nilai bawaan, yaitu True dan False. Nilai-nilai ini digunakan untuk menentukan pernyataan yang diberikan benar atau salah. Nilai Benar dapat diwakili oleh nilai bukan nol atau 'T' atau ‘True’ sedangkan salah dapat diwakili oleh 0 atau 'F' atau ‘False’. Contoh:
+Input	:
+a = 12 < 10
+print(a) 
+Output	: False
+
+5. Set
+Set adalah kumpulan tipe data yang tidak berurutan. Data-data ini dapat diubah, dimodifikasi setelah dibuat, dan memiliki elemen unik. Dalam Set, urutan elemen tidak terdefinisi. Set dibuat dengan menggunakan fungsi bawaan set(), atau urutan elemen dilewatkan dalam kurung kurawal dan dipisahkan dengan koma. Ini dapat berisi berbagai jenis nilai. Contoh:
+Input	:
+Set1 = {3, “jeruk”, “apel”, 4, 5, “pisang”}
+print(set1)
+Output	: {3, 4, 5, ‘pisang’, ‘jeruk’, ‘apel’}
+
+Input	:
+set1 = {3, “jeruk”, “apel”, 4, 5, “pisang”}
+set1.add(“nanas”)
+print(set1)
+Output	: {3, ‘pisang’, ‘nanas’, 4, 5, ‘jeruk’, ‘apel’}
+
+Input	:
+set1 = {3, “jeruk”, “apel”, 4, 5, “pisang”}
+set1.add(“nanas”)
+set1.remove(4)
+print(set1)
+Output	: { ‘pisang’, ‘nanas’, ‘jeruk’, ‘apel’, 3, 5}

@@ -1,0 +1,96 @@
+Case
+Penjualan
+tiket dan jersey tim Persib Bandung hanya menghasilkan
+omzet 400 M di tahun 2021, angka ini menurun 50% dari tahun
+sebelumnya , padahal dimusim tersebut tim memiliki banyak pemain
+bintang yang dipercaya dapat meningkatkan performa tim , serta
+pendukung tim Persib Bandung sangat terkenal dengan loyalitasnya
+yang selalu menghadiri laga kandang dan siap menghamburkan pundi
+pundinya untuk mendapatkan desain jersey tim terbaru
+
+Business Understanding
+Tim
+Persib Bandung merupakan salah satu tim sepakbola di L iga
+Nasional yang 40% dari sumber pendanaanya berasal dari penjualan
+tiket dan jersey tim. Rata rata pendapatan tim dari penjualan tiket dan
+jersey dari tahun 2010 2020 adalah 550 M per tahun . Jersey pemain
+bintang merupakan item yang paling digemari yang dapat
+meningkatkan penjualan jersey hingga 40%.
+
+Analytical Approach
+1.
+Descriptive analysis
+•
+Minat penggemar untuk datang langsung menyaksikan pertandingan di stadion menurun
+•
+Penyerang utama tim , Esteban Vizcarra sudah tidak menjadi favorit penggemar
+2.
+Diagnostic analysis
+•
+Kegagalan meraih gelar juara dan kekalahan beruntun di musim 2020/2021 mengendurkan minat penggemar untuk menyaksikan pertandingan secara
+langsung di stadion
+•
+Esteban Vizcarra jarang mencetak gol dan membawa tim menuju kemenangan , serta tidak mampu lagi untuk menjaga semangat anggota tim lain.
+3.
+Predictive analysis
+•
+Berapa banyak penurunan yang dihasilkan bila tim terus menerus mengalami kekalahan disetiap pertandingan
+•
+Berapa banyak kekalahan yang akan dialami jika Esteban Vizcarra masih dijadikan penyerang utama
+4.
+Prescriptive analysis
+•
+Mengganti p enyerang utama
+•
+Mencari pendukung untuk memaksimalkan performa penyerang utama
+
+
+Data Requirement
+•
+Jumlah pertandingan yang dimenangkan dari pertandingan yang
+dimainkan
+•
+Jumlah pengunjung stadion
+•
+Jumlah gol yang dihasilkan oleh Esteban Vizcarra dari jumlah
+pertandingan yang dimainkan
+•
+Jumah pertandingan yang dimainkan Esteban Vizcarra dari jumlah
+kemenangan pertandingan yang didapatkan
+•
+Jumlah penjualan Jersey.
+•
+Jumlah penjualan jersey Esteban Vizcarra dari total penjualan jersey.
+
+Data Collection
+•
+Data pengunjung stadion dari 2010 2021.
+•
+Data penjualan jersey dari 2010 2021.
+•
+Data pertandingan 2010 2021
+•
+Data pertandingan sejak Esteban Vizcarra bergabung dengan tim ,
+yaitu 2019.
+•
+Data performa Esteban Vizcarra dari 2019 2021.
+
+Data understanding
+•
+Melihat pengaruh jumlah kemenangan pertandingan tim terhadap
+jumlah pengunjung stadion dan penjualan jersey.
+•
+Melihat pengaruh performa penyerang utama terhadap kemenangan
+tim.
+•
+Melihat pengaruh performa penyerang utama terhadap penjualan
+jersey.
+
+
+Modelling
+•
+Penjualan tiket dan jersey mencapai angka tertinggi saat tim menjadi
+juara liga 2 kali berturut turut
+•
+Performa dan peran penyerang utama Esteban semakin menurun dari
+2019 sampai 2021.

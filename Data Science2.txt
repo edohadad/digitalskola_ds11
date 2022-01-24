@@ -1,0 +1,24 @@
+1.
+Jelaskan apa itu data science
+Data Science
+adalah ilmu yang mempelajari sekumuplan fakta dan
+informasi atau data sebagai referensi untuk menggambarkan ,
+menganalisa , memprediksi dan bahkan menentukan struktur dan
+perilaku dunia fisi k dan alam
+
+2.
+Jelaskan apa itu library
+Library
+adalah kumpulan sumber daya non volatil yang digunakan oleh
+program k omputer untuk mengolah dan menganalisa data.
+
+3.
+Jelaskan perbedaan regresi dan klasifikasi
+Regresi
+adalah metode analisis yang digunakan untuk melihat pengaruh
+antara dua atau lebih variabel yang bersifat fungsional dan diwujudkan
+dalam suatu model matematis , biasanya digunakan untuk prediksi atau
+ramalan
+Klasifikasi
+adalah pengaturan sistematis dalam pembagian atau
+pengelompokan hal berdasarkan kesamaan sifatnya

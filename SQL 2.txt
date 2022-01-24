@@ -1,0 +1,5 @@
+menggunakan (*) sangat tidak disarankan, karena menarik seluruh data dalam tabel bahkan jyang tidak dibutuhkan.
+lebih baik mengambil secara spesifik. karena ada cost (dalam bentuk databyte/tools effort nya) untuk menarik data (per query) 
+
+
+its better to use more conditions compared to shows more rows

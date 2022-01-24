@@ -1,0 +1,21 @@
+data preparation
+- formatting + feature engineering
+- data cleansing
+
+modeling
+memilih algorithm >> klasifikasi/regresi
+
+evaluation
+-- < 75% >> back to modeling / collect data / dst
+
+1. business understanding
+- list n define business problem >> set priority
+- define business objective
+- set the success criteria
+
+analytic approaches
+- descriptive >> what
+- diagnostic >> why
+- predictive >> what will
+- prespective >> how
+

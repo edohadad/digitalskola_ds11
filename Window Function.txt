@@ -1,0 +1,43 @@
+Window Function
+•
+Merupakan kunci dalam berbagai penggunaan dalam analisis dan
+reporting yang berguna untuk membandingkan dan membedakan
+data
+•
+Melakukan kalkulasi terhadap seluruh baris table yang terkait dengan
+Current Rows
+•
+Kalkulasi yang dilakukan sama seperti Aggregat Function namun
+Window Function tidak menyebabkan baris dikelompokkan menjadi
+suatu output ( rows mempertahankan identitasnya yang
+terpisah
+
+
+Contoh
+penggunaan Window Function
+Pada table Employees
+kita dapat
+melihat secara langsung urutan
+salary tertinggi berdasarkan job
+nya
+
+
+Menggunakan
+Where dalam funsgi Select
+•
+Fungsi WHERE muncul tepat setelah
+fungsi FROM sebelum fungsi ORDER BY
+dalam statement SELECT
+•
+Fungsi WHERE memberi persyaratan
+untuk menyaring jawaban fungsi SELECT
+•
+Persyaratan dari fungsi WHERE harus
+bernilai benar salah, atau tidak diketahui
+Persyaratan i ni bisa berupa ekspresi
+boolean atau kombinasi ekspresi boolean
+menggunakan operator AND dan OR
+•
+Hanya baris yang bernilai benar dan
+memenuhi persyaratan fungsi WHERE
+yang akan muncul dalam jawaban query

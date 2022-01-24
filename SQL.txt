@@ -1,0 +1,9 @@
+tips membuat schema
+1. tentukan mau menggunakan camelCase (pemisahan kata menggunakan huruf kapital) atau snake_case (pemisahan kata menggunakan underscore "_")
+2. hanya gunakan alphabet dan nomor
+3. gunakan underscore untuk snake_case
+4. gunakan nama yg simpel dan descriptive
+5. jangan buat multipel version / one source of turth
+
+tips import data
+1. make sure 
